@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQGMdOypX6Ma6g/profile-displaybackgroundimage-shrink_350_1400/0/1696931492282?e=1702512000&v=beta&t=Qq07G2vpTJtP4P0hj7Mp29LZUwTktOtzWsaQG5wlBAA)
 <h1 align="center">Hi 👋, I'm Nicola Marci'</h1>
 <h3 align="center">Junior Full-Stack Web Developer from Sicily(Italy)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
